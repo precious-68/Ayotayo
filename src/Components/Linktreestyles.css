@@ -145,6 +145,10 @@ a{
        
       
     }
+    .social-icons{
+        display: flex;
+        gap: 35px;
+    }
     .footer{
         /* margin-left: -32%; */
        }
