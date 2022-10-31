@@ -15,3 +15,36 @@
 /* div{
     border:1px solid red;
 } */
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:20vh;
+}
+
+#profile_img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
+#twitter{
+    width:70%;
+    padding-top: 20px;
+    text-align: center;
+}
+#slack{
+    display:none;
+}
+.avatar-sharearrow{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    right: 280px;
+    top: 20px;
+}
+.avatar-sharebtn{
+    display: none;
+}
+
