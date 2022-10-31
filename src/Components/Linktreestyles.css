@@ -149,6 +149,13 @@ a{
         display: flex;
         gap: 35px;
     }
+    #hng{
+        color: black;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: bold;
+       font-family: Inter;
+    }
      .HNG{
          margin-bottom: 15px;
      }
