@@ -47,4 +47,27 @@
 .avatar-sharebtn{
     display: none;
 }
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 12px;
+}
+a{
+    color: #101828;
+    font-style: normal;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    width:70%;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    background: #EAECF0;
+    
+}
 
