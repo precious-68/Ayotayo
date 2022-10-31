@@ -1,7 +1,7 @@
 
-import Header from "./components/Header";
-import Links from "./components/Links";
-import Footer from "./components/Footer";
+import Header from "../src/Components/Header";
+import Links from "../src/Components/Links";
+import Footer from "../src/Components/Footer";
 
 
 function App() {
