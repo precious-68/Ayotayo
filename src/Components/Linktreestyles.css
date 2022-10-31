@@ -129,12 +129,12 @@ a{
         position: absolute;
         width: 40px;
         height: 40px;
-        right: 80px;
+        right: 100px;
         top: 50px;
     }
     a{
-        width:100%;
-       padding: 20px 120px;
+        width:80%;
+       padding: 20px 100px;
        margin:5px;
     }
     #footerr{
