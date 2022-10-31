@@ -109,3 +109,28 @@ a{
     font-style: normal;
 }
 
+
+@media (max-width:650px){
+    .body{
+        display: flex;
+        flex-direction: column;
+       justify-content: center;
+        align-items: center;
+        background: #FFFFFF;
+        height: 100%;
+      
+    }
+    .avatar-sharearrow{
+        display:none;
+
+    }
+    .avatar-sharebtn{
+        display: block;
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        right: 80px;
+        top: 50px;
+    }
+    
+}
